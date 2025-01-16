@@ -76,5 +76,11 @@ footer {
 a.link {
     font-size: 30px;
     color:white;
-    width: 50%;
+    text-decoration: none;
+    text-align: 100px;
+}
+a.kont {
+    font-size: 100px;
+    color:black;
+    
 }
