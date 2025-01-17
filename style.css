@@ -30,7 +30,7 @@ a.menu {
     text-align: center;
 }
 a.menu:hover {
-    background-color: darkgoldenrod;
+    background-color: darkorange;
 }
 
 article {
@@ -73,12 +73,15 @@ footer {
     margin-top: 10px;
 }
 
-a.link {
-    font-size: 30px;
-    color:white;
+a.mod {
+    display: block; 
+    font-size: 45px;
+    color:black;
     text-decoration: none;
-    text-align: 100px;
+    text-align: center;
+    font-family:fantasy;
 }
+
 img.time {
     margin: auto;
     width: 80%;
