@@ -79,11 +79,25 @@ a.mod {
     color:black;
     text-decoration: none;
     text-align: center;
-    font-family:fantasy;
+    font-family:cursive;
 }
 
 img.time {
     margin: auto;
     width: 80%;
     display: block;  
+}
+a.kont{
+    margin:auto;
+    display: block;
+    text-align: center;
+    color: orange;
+    font-family:fantasy;
+    font-size: 25px;
+}
+a.link{
+    color:orange;
+    font-size: 13px;
+    text-decoration: none;
+    font-family: serif;
 }
